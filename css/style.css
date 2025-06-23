@@ -504,7 +504,8 @@ body {
 
   .logo {
     height: 2.5rem;
-    margin-left: 7rem;
+    display: block;
+    margin: auto;
   }
 
   .hamburger {
